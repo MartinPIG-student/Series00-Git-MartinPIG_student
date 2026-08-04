@@ -17,3 +17,17 @@ these tools will be essential for my future projects and internships.
 ## Image
 
 ![alt text](https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png)
+
+## My Motivation
+
+I've always been curious about how data can reveal patterns in human 
+movement and athletic performance something books and lectures alone 
+can't fully capture. I'm particularly drawn to how outdoor sport 
+companies use data analysis to improve product design, testing, and 
+athlete performance, and I'd love to contribute to that kind of work.
+
+I'm also motivated by the potential of data and AI in health, from 
+tracking physiological adaptations to exercise to supporting better, 
+more personalized care. Learning Python, R and Git feels like getting 
+the keys to finally turn these interests into real, hands-on analysis 
+rather than just theory.
