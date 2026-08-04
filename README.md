@@ -14,3 +14,6 @@ concepts to me.
 
 I'm looking forward to learning more about Git and GitHub, as I know 
 these tools will be essential for my future projects and internships.
+## Image
+
+![alt text](https://logos-marques.com/wp-content/uploads/2021/03/GitHub-Logo.png)
