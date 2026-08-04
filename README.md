@@ -7,7 +7,7 @@ This repository is used to learn-by-doing the basics of Git and GitHub,
 as part of the "Python, R and Git for data analysis" course in the IEAP 
 Master's program.
 
-I am a complete beginner with Git and GitHub — this is my first time 
+I am a complete beginner with Git and GitHub this is my first time 
 using version control tools. I have some experience with Python and 
 data analysis, but branches, commits and pull requests are all new 
 concepts to me.
