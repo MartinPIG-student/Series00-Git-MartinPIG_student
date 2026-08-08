@@ -31,3 +31,5 @@ tracking physiological adaptations to exercise to supporting better,
 more personalized care. Learning Python, R and Git feels like getting 
 the keys to finally turn these interests into real, hands-on analysis 
 rather than just theory.
+## Local Image
+![Sinus signal generated with Python](images/image.png)
