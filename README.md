@@ -33,3 +33,12 @@ the keys to finally turn these interests into real, hands-on analysis
 rather than just theory.
 ## Local Image
 ![Sinus signal generated with Python](images/image.png)
+## Summary
+In this assignment, I learned the basic concepts of Git and GitHub: 
+repositories, branches, commits, and pushing changes to a remote server. 
+I understood how GitHub Desktop, VSCode, and GitHub.com work together 
+in a typical workflow editing files locally, tracking changes, and syncing them online.
+
+The main actions I practiced were: creating a branch, committing changes with a descriptive message, pushing to GitHub, and writing Markdown syntax (headers, images) to format the README file.
+
+It took me approximately 2.5 hours to complete this assignment.
